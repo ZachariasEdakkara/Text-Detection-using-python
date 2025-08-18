@@ -17,6 +17,6 @@ Mainly used for image pre-processing before pushing to PyTesseract.
 To install OpenCV, open cmd and type : ``` pip install opencv-python```
 
 ### NOTE:
-install requests package if ypu havent already using: ``` pip install requests```.
+install requests package if you havent already using: ``` pip install requests```.
 
 This is used to access images from the repo.
